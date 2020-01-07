@@ -10,3 +10,6 @@ The last try got the best public score on Kaggle, but it takes so much time for 
 So the most efficient model seems like SVM + kernel.
 
 <img width="795" alt="Screen Shot 2020-01-07 at 10 30 03 AM" src="https://user-images.githubusercontent.com/40285946/71861665-704a4080-313a-11ea-8d7b-e47fe2ed25f7.png">
+
+## Dataset
+https://www.kaggle.com/c/LANL-Earthquake-Prediction/data
