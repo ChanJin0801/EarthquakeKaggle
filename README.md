@@ -14,6 +14,7 @@ So the most efficient model seems like SVM + kernel.
 
 ## Credits
 https://www.youtube.com/watch?v=TffGdSsWKlA&t=533s
+
 https://github.com/llSourcell/Kaggle_Earthquake_challenge
 
 ## Dataset
